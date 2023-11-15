@@ -6,7 +6,7 @@
 
 OpenRewrite enables large-scale distributed source code refactoring for framework migrations, vulnerability patches, and API migrations with an early focus on the Java language.
 
-Change ✍️
+Change+ ✍️
 
 
 ## Semantic code search and transformation
